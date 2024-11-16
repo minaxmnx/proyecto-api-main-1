@@ -1,0 +1,13 @@
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/resources/Docs.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/dal/StoreDal.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/dto/ProductDto.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/resources/OrdersResource.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/resources/GreetingResource.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/services/JdbiService.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/dto/OrderDto.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/resources/ClientsResource.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/application/ApiApplication.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/dao/StoreDao.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/dto/ClientDto.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/resources/ProductsResource.java
+/Users/minaxmnx/Documents/proyecto-api-main/src/main/java/fca/suayed/dto/ResponseDto.java
